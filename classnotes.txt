@@ -1,0 +1,40 @@
+React JS - Intro
+------------------
+1) It's an open source Library to build Rich UI.
+
+2) Used to Develop Single Page Applications
+- State Managment - Redux 
+
+3) Develop and Maintaned by Facebook 
+
+4) 2013
+
+ -- Library  
+ 
+	3rd Party Packages
+	Axios 
+	React-Router-DOM
+	
+ -- Framework
+    Complete Application Development
+	Design, Dynamic, HTTP Calls, Routing 
+	CLI
+	------------------------------------
+	 Redux  View - Action - Reducer - Store
+	 ---------
+	Implement Redux with REact Exa
+	useSelector(), useDispatch()
+	Redux-Logger, Thunk, Saga
+	Redux-Dev Tools configuration for Debugging 
+======================================
+16/April  - Agenda
+
+Git & Gitset 
+React Basic's 
+React Installation 
+Es6 Topics - Discussion
+
+React Project Folder - 
+React Appliction Flow 
+	
+                       

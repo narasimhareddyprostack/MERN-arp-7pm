@@ -29,12 +29,30 @@ React JS - Intro
 ======================================
 16/April  - Agenda
 
-Git & Gitset 
-React Basic's 
-React Installation 
-Es6 Topics - Discussion
+	Git & Gitset 
+	React Basic's 
+	React Installation 
+	Es6 Topics - Discussion
 
-React Project Folder - 
-React Appliction Flow 
+	React Project Folder - 
+	React Appliction Flow 
 	
-                       
+ES 6 - Features 
+----------------
+1. Fat Arrow / Arrow Function 
+2. Classes and Object 
+3. Object Destructuring 
+4. Spread ,  Rest and Default Operator (...) 
+6. Array Supporting Methods 
+   array.map(  ()=>{}), 
+   array.forEach( ()=>{}),
+   array.reducer( ()=>{}) 
+   for of - - Iterable Object 
+
+7. Template Literal String  - ${ } 
+8. Async and await 
+9. Promise and Closure 
+10. let and Const 
+
+11. import and export 
+    named export and named import 

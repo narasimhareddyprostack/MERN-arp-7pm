@@ -32,6 +32,7 @@ React JS - Intro
 	Git & Gitset 
 	React Basic's 
 	React Installation 
+	
 	Es6 Topics - Discussion
 
 	React Project Folder - 
@@ -56,3 +57,9 @@ ES 6 - Features
 
 11. import and export 
     named export and named import 
+	
+Required Software:
+1. Node Js 
+2. VS code IDE 
+3. GIt Software 
+

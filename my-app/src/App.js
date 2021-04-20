@@ -1,8 +1,13 @@
-import logo from "./logo.svg";
-import "./App.css";
-
-function App() {
-  return <h1> Hello, Welcome to Pro Stack Academy</h1>;
+//class comp
+import React from "react";
+class App extends React.Component {
+  render() {
+    return (
+      <>
+        <h2> React Class Comp</h2>
+        <button className="btn btn-success"> Test</button>
+      </>
+    );
+  }
 }
-
 export default App;

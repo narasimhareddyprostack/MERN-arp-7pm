@@ -1,13 +1,15 @@
-//class comp
 import React from "react";
-class App extends React.Component {
-  render() {
-    return (
-      <>
-        <h2> React Class Comp</h2>
-        <button className="btn btn-success"> Test</button>
-      </>
-    );
-  }
-}
+import Navbar from "./Home/Navbar";
+import Body from "./Home/Body";
+import Footer from "./Home/Footer";
+import "./assets/css/custom.css";
+let App = () => {
+  return (
+    <React.Fragment>
+      <Navbar />
+      <Body />
+      <Footer />
+    </React.Fragment>
+  );
+};
 export default App;
